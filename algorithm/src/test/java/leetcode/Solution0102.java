@@ -17,6 +17,8 @@ package leetcode;
  * 0 <= len(s1) <= 100
  * 0 <= len(s2) <= 100
  *
+ * https://leetcode.cn/problems/check-permutation-lcci/
+ *
  * @author junyi.wu
  * @date 2022/9/27
  */
